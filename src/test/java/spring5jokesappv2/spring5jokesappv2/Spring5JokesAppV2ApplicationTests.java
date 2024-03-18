@@ -1,4 +1,4 @@
-package guru.springframework.spring5jokesappv2;
+package spring5jokesappv2.spring5jokesappv2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
